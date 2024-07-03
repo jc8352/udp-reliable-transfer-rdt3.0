@@ -1,7 +1,7 @@
 # UDP Reliable File Transfer Using Stop and Wait protocol rdt3.0
 
 ## Introduction
-This project implements a reliable file transfer protocol (TFv2) using Stop and Wait protocol rdt3.0 over UDP. It ensures data is sent and acknowledged correctly, simulating and accounting for potential errors and packet loss. The communication is unidirectional, with data flowing from the client to the server.
+This project implements a reliable file transfer protocol using Stop and Wait protocol rdt3.0 over UDP. It ensures data is sent and acknowledged correctly, simulating and accounting for potential errors and packet loss. The communication is unidirectional, with data flowing from the client to the server.
 
 ## Compilation
 To compile the server and client programs, use the following commands:
